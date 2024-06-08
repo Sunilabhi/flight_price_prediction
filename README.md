@@ -33,7 +33,7 @@ Run the Flask web application:
 bash
 Copy code
 python app.py
-Open a web browser and go to http://localhost:5000/.
+Open a web browser and go to [http://localhost:5000/].
 
 Fill out the flight details in the form and submit to get the predicted flight price.
 
