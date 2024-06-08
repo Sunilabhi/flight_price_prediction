@@ -12,7 +12,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone <repository-url>
+git clone < https://github.com/Sunilabhi/flight_price_prediction >
 Navigate to the project directory:
 
 bash
